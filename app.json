@@ -1,13 +1,13 @@
 {
-  "name": "Shin4sub",
+  "name": "Shin2subs",
   "description": "BOT Multi Force Subs File Sharing Bot berguna untuk menyimpan file dan dapat diakses melalui link khusus",
   "keywords": [
     "telegram",
     "file",
     "sharing"
   ],
-  "repository": "https://github.com/RyuuXS/4subs",
-  "logo": "https://telegra.ph/file/4b32181862d22585662bb.jpg",
+  "repository": "https://github.com/RyuuXS/ShinFile-Sharing",
+  "logo": "https://telegra.ph/file/6ef66c6732fdc81690ff3.jpg",
   "env": {
     "TG_BOT_TOKEN": {
       "description": "Masukan Bot token, Dapatkan dari t.me/BotFather",
@@ -41,15 +41,7 @@
       "description": "Masukan ID dari Channel Atau Group Untuk Wajib Subscribenya",
       "value": "-100"
     },
-    "FORCE_SUB_CHANNEL1": {
-      "description": "Masukan ID dari Channel Atau Group Untuk Wajib Subscribenya",
-      "value": "-100"
-    },
     "FORCE_SUB_GROUP": {
-      "description": "Masukan ID dari Group Untuk Wajib Subscribenya",
-      "value": "-100"
-    },
-    "FORCE_SUB_GROUP2": {
       "description": "Masukan ID dari Group Untuk Wajib Subscribenya",
       "value": "-100"
     },
@@ -60,17 +52,7 @@
     "FORCE_SUB_MESSAGE": {
       "description": "Pesan Paksa Subscribe bot, Gunakan Format parsemode HTML",
       "value": "<b>Hello {first}\n\nAnda harus bergabung di Channel/Grup saya untuk menggunakan saya\n\nSilakan Join Ke Channel Terlebih Dahulu</b>"
-    },
-    "CHANNEL":{
-      "description": "Masukan Username Channel anda Untuk Wajib Subscribenya [ Jangan Pake @ ]",
-      "value": "Belajarbersamaryuu",
-      "required": false
-    },
-    "GROUP":{
-      "description": "Masukan Username dari Group anda Untuk Wajib Subscribenya [ Jangan Pake @ ]",
-      "value": "helpforRYUU",
-      "required": false
-   } 
+   }
   },
   "addons": [
     {
