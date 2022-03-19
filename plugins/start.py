@@ -1,5 +1,6 @@
 # (©)Codexbotz
 # Recode By @Mafia_Tobatz
+# Recode by @RYUUSHINNI
 # Kalo clone Gak usah hapus 
 # gue tandain akun tele nya ngentod
 
@@ -120,9 +121,6 @@ async def start_command(client: Client, message: Message):
                 InlineKeyboardButton("•Cʜᴀɴɴᴇʟ•", url=client.invitelink),
                 InlineKeyboardButton("•Gʀᴏᴜᴘ•", url=client.invitelink2),],
             [
-                InlineKeyboardButton("•Cʜᴀɴɴᴇʟ•", url=client.invitelink3),
-                InlineKeyboardButton("•Gʀᴏᴜᴘ•", url=client.invitelink4),],
-            [
                 InlineKeyboardButton("•Tᴜᴛᴜᴘ", callback_data="close"),
             ],
         ]
@@ -152,10 +150,6 @@ async def not_joined(client: Client, message: Message):
         [
             InlineKeyboardButton("•ᴄʜᴀɴɴᴇʟ​​•", url=client.invitelink), 
             InlineKeyboardButton("•ɢʀᴏᴜᴘ•", url=client.invitelink2),
-        ],
-        [
-            InlineKeyboardButton("•Cʜᴀɴɴᴇʟ•", url=client.invitelink3),
-            InlineKeyboardButton("•Gʀᴏᴜᴘ•", url=client.invitelink4),
         ],
     ]
     try:
