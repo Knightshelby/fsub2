@@ -1,13 +1,13 @@
 {
-  "name": "Shin2subs",
+  "name": "Oll2subs",
   "description": "BOT Multi Force Subs File Sharing Bot berguna untuk menyimpan file dan dapat diakses melalui link khusus",
   "keywords": [
     "telegram",
     "file",
     "sharing"
   ],
-  "repository": "https://github.com/RyuuXS/ShinFile-Sharing",
-  "logo": "https://telegra.ph/file/6ef66c6732fdc81690ff3.jpg",
+  "repository": "https://github.com/OLLPROJECT/File-Sharing-2-bottom",
+  "logo": "https://telegra.ph/file/ca011a5e1b5ba4d6c3b1e.jpg",
   "env": {
     "TG_BOT_TOKEN": {
       "description": "Masukan Bot token, Dapatkan dari t.me/BotFather",
@@ -15,11 +15,11 @@
     },
     "OWNER": {
       "description": "Masukan Username Telegram untuk Owner BOT [ Jangan Pake @ ]",
-      "value": "RYUUSHINNI"
+      "value": "myname_is_oll"
     },
     "OWNER_ID": {
       "description": "Masukan User ID Telegram untuk Owner BOT",
-      "value": "5041138056"
+      "value": "2019435633"
     },
     "ADMINS": {
       "description": "Masukan User ID untuk mendapatkan hak Admin BOT [Hanya dapat membuat link]",
