@@ -5,7 +5,7 @@ Saya Kira Ini Akan Bermanfaat Bagi Banyak Orang.. 😇.
 
 ##
 
-**Jika Anda memerlukan tambahan module lagi dalam repo atau Jika Anda menemukan bug, silahkan report di group [@helpforRYUU](https://www.telegram.dog/helpforRYUU)**
+**Jika Anda memerlukan tambahan module lagi dalam repo atau Jika Anda menemukan bug, silahkan report di group [@Brothersexsid](https://t.me/Brothersexsid)**
 
 ### Features
 - Sepenuhnya dapat dicustom.
