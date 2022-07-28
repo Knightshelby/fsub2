@@ -95,7 +95,7 @@ Laporkan Bug, Berikan Permintaan Fitur Di sana..
 
 ### Credits
 
-- Oll - [Dev OLL UBOT](https://t.me/alahsiahah)
+- Knight - [Dev Knight UBOT](https://t.me/alahsiahah)
 - Thanks To Dan For His Awsome [Libary](https://github.com/pyrogram/pyrogram)
 - Thanks To [CodeXBotz](https://github.com/CodeXBotz/File-Sharing-Bot)
 - Our Support Group Members
