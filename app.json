@@ -6,7 +6,7 @@
     "file",
     "sharing"
   ],
-  "repository": "https://github.com/OLLPROJECT/File-Sharing-2-bottom",
+  "repository": "https://github.com/Knightshelby/fsub2",
   "logo": "https://telegra.ph/file/f17360c05bafab6c7c4f3.jpg",
   "env": {
     "TG_BOT_TOKEN": {
