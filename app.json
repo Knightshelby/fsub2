@@ -7,7 +7,7 @@
     "sharing"
   ],
   "repository": "https://github.com/OLLPROJECT/File-Sharing-2-bottom",
-  "logo": "https://telegra.ph/file/ca011a5e1b5ba4d6c3b1e.jpg",
+  "logo": "https://telegra.ph/file/f17360c05bafab6c7c4f3.jpg",
   "env": {
     "TG_BOT_TOKEN": {
       "description": "Masukan Bot token, Dapatkan dari t.me/BotFather",
@@ -15,11 +15,11 @@
     },
     "OWNER": {
       "description": "Masukan Username Telegram untuk Owner BOT [ Jangan Pake @ ]",
-      "value": "myname_is_oll"
+      "value": "alahsiahah"
     },
     "OWNER_ID": {
       "description": "Masukan User ID Telegram untuk Owner BOT",
-      "value": "2019435633"
+      "value": "5477811475"
     },
     "ADMINS": {
       "description": "Masukan User ID untuk mendapatkan hak Admin BOT [Hanya dapat membuat link]",
